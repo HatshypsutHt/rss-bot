@@ -6,7 +6,7 @@ return [
 	"rss_url" => "https://www.wired.com/feed/rss", // Link to page with rss, replace with your own
 	"language" => "Українська", // Language for translation and summarization
 	"sent_articles_file" => "sent_articles.txt", // File to store sent articles
-	"email_recipient" => "info@drog.info", // Email address to send notifications
+	"email_recipient" => "", // Email address to send notifications
 	"email_template" => "email_template.php", // Template for sending admin emails
 	
 	// The language in the message depends on the language of these requests.
